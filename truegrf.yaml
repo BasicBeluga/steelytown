@@ -1,4 +1,7 @@
 description: A new TrueGRF project based on FIRS Steeltown
+grfid: f11db370
 license: GPL-2.0
+name: steelytown
 type: industry
+url: https://github.com/BasicBeluga/steelytown
 version: 6
